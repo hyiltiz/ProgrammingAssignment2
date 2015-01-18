@@ -1,7 +1,7 @@
-## This function is an attempt for the peer-review based excersize for the R
-## Programming course in Courera.  This function improves matrix inversion by
+## This function is an attempt for the peer-review based exercise for the R
+## Programming course in Coursera.  This function improves matrix inversion by
 ## caching the result inverse matrix of this potentially time-consuming
-## computation once it has been conputed, so that when we need it again, it
+## computation once it has been computed, so that when we need it again, it
 ## can be looked up in the cache rather than recomputed.
 
 
